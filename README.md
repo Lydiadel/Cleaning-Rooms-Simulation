@@ -10,11 +10,11 @@ it requires a major number of movements from the cleaner agents to clean all the
 
 ### Simulation
 The simulation receives parameters such as
---Rooms uncleaned: Percentage of rooms uncleaned
--- Cleaners: Machine cleaners   
--- Length:  Length of the grid
--- Height: Height of the grid
--- steps: Max steps
+- Rooms uncleaned: Percentage of rooms uncleaned
+- Cleaners: Machine cleaners   
+- Length:  Length of the grid
+- Height: Height of the grid
+- steps: Max steps
 
 If the values of cleaners and steps are high the performance may be great, is important to consider also that if the parameters
 **rooms uncleaned, cleaners, length and height** are high the performance may not be the the finest.
