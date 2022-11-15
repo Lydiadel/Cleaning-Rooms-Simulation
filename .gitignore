@@ -1,0 +1,5 @@
+# Ignore DS_store
+.DS_Store
+
+# Ignore checkpoints
+.ipynb_checkpoints/CleaningRooms-checkpoint.ipynb
